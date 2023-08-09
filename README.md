@@ -14,3 +14,4 @@ PROBLEM STATEMENT
 •	A list of top customers and sales reps could also prove insightful.
 •	Total revenues per month over the years (2016-2018).
 •	Total revenues per year.
+Link to Tableau Dashboard https://public.tableau.com/views/BikeSales_16909950635340/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
